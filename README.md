@@ -1,2 +1,2 @@
-# Survey-Form
-HTML and CSS project
+# Survey Form
+![screenshot of the app](capture.png)
